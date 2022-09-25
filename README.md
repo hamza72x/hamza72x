@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Block CTRL+C in bash script](https://dev.to/hamza72x/block-ctrlc-in-bash-script-22kf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me</h3>
