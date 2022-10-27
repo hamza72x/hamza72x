@@ -9,7 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Block CTRL-C in bash script](https://dev.to/hamza72x/block-ctrlc-in-bash-script-22kf)
+- [[Grind 169] 8. Binary Search](https://dev.to/hamza72x/grind-169-8-binary-search-5e5h)
+- [[Grind 169] 7. Valid Anagram](https://dev.to/hamza72x/grind-169-7-valid-anagram-1mdi)
+- [[Grind 169] 6. Invert Binary Tree](https://dev.to/hamza72x/grind-169-6-invert-binary-tree-4eni)
+- [[Grind 169] 5. Valid Palindrome](https://dev.to/hamza72x/grind-169-5-valid-palindrome-6l1)
+- [[Grind 169] 4. Best Time to Buy and Sell Stock](https://dev.to/hamza72x/grind-169-4-best-time-to-buy-and-sell-stock-4fo8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me</h3>
